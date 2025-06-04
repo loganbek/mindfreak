@@ -4,6 +4,46 @@
 
 ---
 
+## Release Schedule
+
+### v1.0.0 — Proof of Concept (POC)
+- Basic mind map UI: create, connect, and delete nodes
+- Manual node editing (title, description)
+- Simple data persistence (local storage or JSON export)
+- Minimal UI/UX polish
+
+**Target Date:** [Set your date here]
+
+---
+
+### v1.1.0 — AI Suggestions & Smart Nodes
+- Integrate AI for node suggestion/expansion (OpenAI or local model)
+- Add prompt-aware nodes (basic chat/coding capabilities)
+- Improved UI for node interactions
+
+---
+
+### v1.2.0 — Action Plans & Automation
+- Auto-generate checklists or project boards from nodes
+- Export mind map as Markdown or JSON
+- Basic execution layer: trigger scripts or create GitHub issues
+
+---
+
+### v1.3.0 — Integrations & Voice Input
+- Integrate with external tools (VS Code, Notion, CLI)
+- Add voice input for node creation
+- Enhanced workflow automation (drag-and-drop pipelines)
+
+---
+
+### v1.4.0 — Polish & Community Feedback
+- UI/UX improvements based on user feedback
+- Documentation and onboarding
+- Prepare for open-source/community release
+
+---
+
 ## Core Idea
 
 Mindfreak is a next-generation mind mapping tool that doesn’t just help you organize your thoughts—it brings them to life. By combining visual mind mapping with AI-powered suggestions and automation, Mindfreak turns your ideas into actionable plans, code, workflows, or creative outputs.
