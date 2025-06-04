@@ -1,0 +1,5 @@
+{
+  // Enable GitHub Copilot for this workspace
+  "github.copilot.enable": {},
+  "github.copilot.suggestionDelay": 150
+}

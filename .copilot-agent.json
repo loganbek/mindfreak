@@ -1,0 +1,4 @@
+{
+  "github.copilot.agent.enable": true,
+  "github.copilot.agent.experimentalFeatures": true
+}
