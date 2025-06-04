@@ -1,0 +1,29 @@
+# Configuration for CodeRabbit (AI PR review bot)
+# See: https://docs.coderabbit.ai/configuration/
+
+# Enable CodeRabbit for this repository
+enabled: true
+
+# PR review settings
+review:
+  approve_on_pass: false
+  request_changes_on_fail: true
+  comment_on_suggestions: true
+  summary_comment: true
+
+# Linting and formatting
+lint:
+  enabled: true
+  fail_on_error: true
+
+# Optional: restrict to certain branches
+branches:
+  include:
+    - main
+    - master
+
+# Optional: set minimum review length
+min_review_length: 100
+
+# Optional: set language
+language: en
